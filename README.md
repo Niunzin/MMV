@@ -12,5 +12,5 @@ Features:
     Internal changes - v0.9.1*
 
 Version 0.9.0 Source Code: https://github.com/Niunzin/ModManagerV
-
 Version 0.9.1 Github: https://github.com/Niunzin/MMV 
+Download by clicking "Download ZIP" or in https://www.gta5-mods.com/tools/mod-manager-v.
